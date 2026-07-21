@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0017_000.yaml, hash: 'sha256:ac8817f8b4041517957e3e6c5c8df2efa4571efb87d19171a94915ce42ecc5a6'}
+  - {seq: 0, filename: KR6p0017_000.yaml, hash: 'sha256:64f6e334ce8487c6de228a5dc49256e2262b26d087f1daeb372bb0f32b6de47b'}
   - {seq: 1, filename: KR6p0017_001.yaml, hash: 'sha256:23d2af97405b27686e9d7b891a8450645845e0a589c6fb9ea9174ee60d0675f7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0017_000.markers.yaml, hash: 'sha256:9729e5a76c393ba29b45a8ef3af586249b9a4886793158b1481dddf291c6d04d'}
+  - {seq: 0, role: markers, filename: assets/KR6p0017_000.markers.yaml, hash: 'sha256:4f3956e911634b1f402c1b32cbca86c34bc2f6190603a46232e524b955bdd1eb'}
   - {seq: 1, role: markers, filename: assets/KR6p0017_001.markers.yaml, hash: 'sha256:1c59235fd35287807d1dbcc99d6c7fcfeb1554cbec4cd04e715bc3123b5b9eb4'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0017_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 422-A 佛說阿彌陀經略解序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0017_X_000-mulu-2
     span:
-    - front
+    - body
     - 259
     - 259
   label: 阿彌陀經略解
@@ -67,7 +67,7 @@ table_of_contents:
   label: No. 422-B
   type: mulu
   level: 1
-hash: sha256:a702b41f469621dad469f1de6555170eddfb29c483c578628214c813199d07f9
+hash: sha256:6b81958fdef3323de949c3a2926648c49fc52655f87cdf1a2d7d144cf8bafcf9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

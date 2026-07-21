@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6p0017/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 佛說阿彌陀經略解序吳郡沙門大佑述夫寂光真淨初無苦樂之殊妄識紛紜遂有聖凡之異由是漂流五濁莫遍一真故我釋尊示生堪忍當祗園之嘉會告身子之利根開法藏之願門指樂之妙土瓊林玉沼直顯於心源壽量光明全彰於自性眾聖同處非少善之得生七日持名在一心之不亂車理體一生佛原同無緣之慈不謀而應了唯心之本具億剎非遙知大願之可憑三祗橫截經文簡約佛旨玄微持誦雖多研詳實寡惟前賢之著述嗟末俗之罕聞竊效流通略伸援引願與同志普結淨緣咸契無生同登不退云爾唐慈恩法師造彌陀通贊一卷宋孤山淨覺靈芝諸師皆有疏記三衢倫師古厓新師皆曾集註今欲從略以便初機故茲別出各從其志
   hash: sha256:f9413ef8388090d64058501a94f9613355e223f0cba24d4a84f168f85a4c88dc
   markers:
   - {type: 序, offset: 0, content: No. 422-A 佛說阿彌陀經略解序, id: KR6p0017_X_000-mulu-1, level: '1'}
   - {type: 其他, offset: 259, content: 阿彌陀經略解, id: KR6p0017_X_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 阿彌陀經略解
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X22/X22n0422.xml
     old_id: X22n0422
-hash: sha256:0987ea3c66f3b35f323c68955176918ade65b7ad3e26e0a687aa2346dc8be277
+hash: sha256:1cc22134f93f1969b34a5a00f8aa400719417fe2d49614f01a09f0d024d1059e

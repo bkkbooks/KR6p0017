@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0017_000-X.yaml, hash: 'sha256:0987ea3c66f3b35f323c68955176918ade65b7ad3e26e0a687aa2346dc8be277'}
+  - {seq: 0, filename: KR6p0017_000-X.yaml, hash: 'sha256:1cc22134f93f1969b34a5a00f8aa400719417fe2d49614f01a09f0d024d1059e'}
   - {seq: 1, filename: KR6p0017_001-X.yaml, hash: 'sha256:3a9a8acfd3640378dbddd2fd790fc79f5359ff574712d10ba85458f6b439cda8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0017_000-X.markers.yaml, hash: 'sha256:e03dc53a3f9109f755036c86b4ab1d11853533f8a1e82a3af83b3f283bc58ac8'}
+  - {seq: 0, role: markers, filename: assets/KR6p0017_000-X.markers.yaml, hash: 'sha256:9bbe2fc9ccb3cdfb974d60ee88d4eaea3bd999f41233417c2c27135eeb493f1f'}
   - {seq: 1, role: markers, filename: assets/KR6p0017_001-X.markers.yaml, hash: 'sha256:1f537ac49fc5d9c44c730ddba5471a6d98a898d82280aa256986dc8e1f6638fb'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0017_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 422-A 佛說阿彌陀經略解序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0017_X_000-mulu-2
     span:
-    - front
+    - body
     - 259
     - 259
   label: 阿彌陀經略解
@@ -65,4 +65,4 @@ table_of_contents:
   label: No. 422-B
   type: mulu
   level: 1
-hash: sha256:8922c89dcc276f0fe9189514aaa36480454fb94aec4de984037811f414792c19
+hash: sha256:249cb53252fb58e610e7dc54077cf6127a06bfe8632f5ef7b82ab27c39ffb8db
